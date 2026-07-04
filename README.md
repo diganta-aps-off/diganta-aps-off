@@ -100,6 +100,7 @@ A project exploring motor control and hardware integration.
 * 📧 **Email:** [diganta.aps.off@gmail.com](mailto:diganta.aps.off@gmail.com)
 * 💼 **LinkedIn:** https://www.linkedin.com/in/diganta-bag-14507836a
 * 🐙 **GitHub:** https://github.com/diganta-aps-off
+* 📷 Instagram: https://www.instagram.com/quantum_cosmo_fields/
 
 ---
 
